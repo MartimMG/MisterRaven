@@ -1,2 +1,1 @@
-# Fiuza
-# find a 822 bases consensus sequence
+ECNEQQES SQSNESNQC SESAK 228 A DNIF
